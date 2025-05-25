@@ -46,4 +46,4 @@ pip install pandas openpyxl PySimpleGUI fpdf
 
 > Contact
 
-For questions email: salmabud814@gmail.com
+For questions or suggestions, feel free to email: saloom8143@gmail.com
